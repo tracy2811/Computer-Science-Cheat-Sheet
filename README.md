@@ -1,6 +1,6 @@
 # Computer-Science-Cheat-Sheet
 
-These cheat sheets are made during my undergraduate Computer Science study. Although ciriculumn differs from university to university, the elementary is not. These cheat sheets help me pass courses with high scores, I hope they will help you too. I highly recommend to use these cheat sheets in complement to materials provided by your professors to review and prepare for exam. Good luck!
+These cheat sheets are made during my undergraduate Computer Science study. Although ciriculumn differs from university to university, the elementary does not. These cheat sheets help me pass courses with high scores, I hope they will help you too. I highly recommend to use these cheat sheets in complement to materials provided by your professors to review and prepare for exam. Good luck!
 
 ----
 
