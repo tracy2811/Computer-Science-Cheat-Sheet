@@ -8,12 +8,12 @@ These cheat sheets are made during my undergraduate Computer Science study. Alth
 
 Cheat Sheets for Programming courses are not included.
 
-    * Fall semester
+  * Fall semester
         - [Linear Algebra I](./1st-year/Linear-Algebra-I.pdf)
         - [Mathematical Analysis I](./1st-year/Mathematical-Analysis-I.pdf)
         - [Computer Architecture]()
         
-    * Sprint semester
+  * Sprint semester
         - [Linear Algebra II](Linear-Algebra-II.pdf)
         - [Mathematical Analysis II](./1st-year/Mathematical-Analysis-II.pdf)
         - [Data Structure and Algorithm](./1st-year/Data-Structure-Algorithm.pdf)
