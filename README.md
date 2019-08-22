@@ -18,7 +18,7 @@ Cheat Sheets for Programming courses are not included.
         
   * __Spring semester__
   
-    - [Linear Algebra II](Linear-Algebra-II.pdf)
+    - [Linear Algebra II](./1st-year/Linear-Algebra-II.pdf)
         
     - [Mathematical Analysis II](./1st-year/Mathematical-Analysis-II.pdf)
     
