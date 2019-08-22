@@ -14,7 +14,7 @@ Cheat Sheets for Programming courses are not included.
         
     - [Mathematical Analysis I](./1st-year/Mathematical-Analysis-I.pdf)
     
-    - [Computer Architecture]()
+    - [Computer Architecture]() <--- upload soon
         
   * __Spring semester__
   
