@@ -12,7 +12,7 @@ Cheat Sheets for Programming courses are not included.
   
     - [Linear Algebra I](./1st-year/Linear-Algebra-I.pdf)
         
-    - [Mathematical Analysis I](./1st-year/Mathematical-Analysis-I.pdf)
+    - [Mathematical Analysis I](./1st-year/Mathematical-Analysis-II.pdf)
     
     - [Computer Architecture]() <--- upload soon
         
@@ -20,7 +20,7 @@ Cheat Sheets for Programming courses are not included.
   
     - [Linear Algebra II](./1st-year/Linear-Algebra-II.pdf)
         
-    - [Mathematical Analysis II](./1st-year/Mathematical-Analysis-II.pdf)
+    - [Mathematical Analysis II](./1st-year/Mathematical-Analysis-I.pdf)
     
     - [Data Structure and Algorithm](./1st-year/Data-Structure-Algorithm.pdf)
     
